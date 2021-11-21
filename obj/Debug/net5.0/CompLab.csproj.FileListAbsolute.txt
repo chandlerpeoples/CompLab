@@ -1,0 +1,16 @@
+C:\Users\chand\CompLab\bin\Debug\net5.0\CompLab.exe
+C:\Users\chand\CompLab\bin\Debug\net5.0\CompLab.deps.json
+C:\Users\chand\CompLab\bin\Debug\net5.0\CompLab.runtimeconfig.json
+C:\Users\chand\CompLab\bin\Debug\net5.0\CompLab.runtimeconfig.dev.json
+C:\Users\chand\CompLab\bin\Debug\net5.0\CompLab.dll
+C:\Users\chand\CompLab\bin\Debug\net5.0\ref\CompLab.dll
+C:\Users\chand\CompLab\bin\Debug\net5.0\CompLab.pdb
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.csproj.AssemblyReference.cache
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.AssemblyInfoInputs.cache
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.AssemblyInfo.cs
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.csproj.CoreCompileInputs.cache
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.dll
+C:\Users\chand\CompLab\obj\Debug\net5.0\ref\CompLab.dll
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.pdb
+C:\Users\chand\CompLab\obj\Debug\net5.0\CompLab.genruntimeconfig.cache
